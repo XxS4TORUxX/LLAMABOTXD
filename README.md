@@ -1,12 +1,9 @@
 # `⚜️ 𝙻𝙻𝙰𝙼𝙰 𝙱𝙾𝚃 ⚜️`
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
+### `—◉ 👑 DUDAS SOBRE EL BOT?, 👑`
 <a href="http://wa.me/51915251956" target="blank"><img src="https://img.shields.io/badge/DOMADOR_DE_LLAMAS_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > EL NUMERO NO ES EL BOT, ES EL CREADOR DEL BOT
-
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
