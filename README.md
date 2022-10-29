@@ -24,53 +24,6 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/XxS4TORUxX/LLAMABOTXD/fork)
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-```bash
-> cd
-> termux-setup-storage
-> apt update 
-> pkg upgrade 
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
-> git clone https://github.com/XxS4TORUxX/LLAMABOTXD
-> cd Mystic-termux
-> yarn install 
-> npm install
-> npm update
-> npm install 
-> npm start
-```
-
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> npm start
-```
-
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> rm -rf MysticSession
-> npm start
-```  
-
-### `—◉ 📝 NOTAS 📝`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
-
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 
 
