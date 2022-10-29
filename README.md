@@ -106,4 +106,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
 
-`TheMystic-Bot-MD _ By Bruno Sobrino`
+`𝙻𝙻𝙰𝙼𝙰 𝙱𝙾𝚃 _ By Domador de LLamas`
