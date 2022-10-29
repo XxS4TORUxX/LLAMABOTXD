@@ -1,7 +1,7 @@
-# `⚜️𝙻𝙻𝙰𝙼𝙰 𝙱𝙾𝚃⚜️`
+# `⚜️ 𝙻𝙻𝙰𝙼𝙰 𝙱𝙾𝚃 ⚜️`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/51915251956" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51915251956" target="blank"><img src="https://img.shields.io/badge/DOMADOR_DE_LLAMAS_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
