@@ -37,7 +37,7 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/Mystic-termux
+> git clone https://github.com/XxS4TORUxX/LLAMABOTXD
 > cd Mystic-termux
 > yarn install 
 > npm install
@@ -73,6 +73,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://ibb.co/4mPHqTs"><img src="https://ibb.co/4mPHqTs" width="500" height="500" alt="BrunoSobrino"/></a>
+
 
 `𝙻𝙻𝙰𝙼𝙰 𝙱𝙾𝚃 _ By Domador de LLamas`
